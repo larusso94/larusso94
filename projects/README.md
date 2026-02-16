@@ -52,7 +52,7 @@ Built a self-service platform where teams define agents in YAML, deploy via CLI,
 ### Enterprise RAG System
 
 **Problem:**
-Large banking client needed internal knowledge assistant to search 10k+ policy documents. Manual search took 20-30 minutes per query.
+Major European bank (€200B+ assets, 20,000+ employees) needed internal knowledge assistant to search 10k+ policy documents. Manual search took 20-30 minutes per query.
 
 **Solution:**
 Built production RAG system with hybrid search (keyword + semantic), Azure OpenAI, and LLM-as-judge evaluation.
@@ -82,7 +82,7 @@ Built production RAG system with hybrid search (keyword + semantic), Azure OpenA
 ### GPU Deepfake Detection
 
 **Problem:**
-Cybersecurity client needed real-time deepfake detection for video calls to prevent social engineering attacks. Existing CPU model took 45 seconds per frame.
+Cybersecurity firm (~200 employees, B2B SaaS) needed real-time deepfake detection for video calls to prevent social engineering attacks. Existing CPU model took 45 seconds per frame.
 
 **Solution:**
 Optimized PyTorch model to TensorRT, deployed on NVIDIA Triton Inference Server with dynamic batching.

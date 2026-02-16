@@ -1,6 +1,6 @@
 # Professional Experience
 
-## Machine Learning Consultant (MLOps) @ [Deloitte](https://www2.deloitte.com/)
+## Machine Learning Consultant (MLOps) @ Big 4 Consulting Firm
 **Duration**: Feb 2025 - Present  
 **Location**: Barcelona, Catalonia, Spain (Hybrid)  
 **Role**: MLOps Consultant specializing in GenAI solutions
@@ -42,11 +42,11 @@ Leading end-to-end MLOps delivery for enterprise clients across banking, energy,
 
 ### Client Projects
 
-**Sabadell** - AI Initiative Validation Services  
-**Unicaja** - Backend Component Design and Development  
-**Mn8 Energies** - Full MLOps Project Leadership (Design to Deployment)  
-**INCIBE** - Video Analysis Lead for Deepfake Detection Service  
-**Horse Motors** - MLOps Methodology Definition and Infrastructure Management  
+**Spanish Bank (€200B+ assets)** - AI Initiative Validation Services  
+**Regional Bank (€50B+ assets)** - Backend Component Design and Development  
+**Energy Tech Startup (~100 employees)** - Full MLOps Project Leadership (Design to Deployment)  
+**National Cybersecurity Agency** - Video Analysis Lead for Deepfake Detection Service  
+**Automotive Manufacturer (~500 employees)** - MLOps Methodology Definition and Infrastructure Management  
 
 ### Technologies
 **Primary**: Python, PyTorch, LangChain, Azure OpenAI, RAG, MLflow, Docker, Kubernetes  
@@ -55,12 +55,12 @@ Leading end-to-end MLOps delivery for enterprise clients across banking, energy,
 
 ---
 
-## Cyber Security Delivery Analyst @ [Deloitte](https://www2.deloitte.com/)
+## Cyber Security Delivery Analyst @ Big 4 Consulting Firm
 **Duration**: Feb 2024 - Jan 2025  
 **Location**: Barcelona, Catalonia, Spain
 
 ### Responsibilities
-- Oversaw CI/CD security processes for Banking Company
+- Oversaw CI/CD security processes for major banking client (€100B+ assets)
 - Ensured OWASP standards alignment across ~60 initiatives
 - Coordinated with functional and development teams for security risk identification
 - Conducted abuse testing during development stages
