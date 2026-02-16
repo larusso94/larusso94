@@ -242,7 +242,7 @@ These are projects I'd love to build if I had more time:
 4. **Federated Learning Framework** – Privacy-preserving model training across distributed data sources
 5. **AI Governance Dashboard** – Centralized monitoring for AI systems (cost, compliance, performance, drift)
 
-**Interested in collaborating?** Reach out: [lautarorussobertolez@gmail.com](mailto:lautarorussobertolez@gmail.com)
+**Interested in collaborating?** Reach out: [lrussobertolez@gmail.com](mailto:lrussobertolez@gmail.com)
 
 ---
 
@@ -261,4 +261,4 @@ Most projects are client work (not public), but I'm working on open-sourcing the
 
 **GitHub (coming soon):** [github.com/lrusso94](https://github.com/lrusso94)
 
-In the meantime, if you want to discuss any project in detail, [let's talk](mailto:lautarorussobertolez@gmail.com).
+In the meantime, if you want to discuss any project in detail, [let's talk](mailto:lrussobertolez@gmail.com).

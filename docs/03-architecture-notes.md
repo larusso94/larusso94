@@ -303,4 +303,4 @@ Auth, encryption, audit logs, least-privilege IAM. Security is not an afterthoug
 
 ## Want to Discuss Architecture?
 
-These diagrams are starting points. Real systems are messier, with trade-offs specific to your use case. If you want to dive deeper into any of these patterns, [let's talk](mailto:lautarorussobertolez@gmail.com).
+These diagrams are starting points. Real systems are messier, with trade-offs specific to your use case. If you want to dive deeper into any of these patterns, [let's talk](mailto:lrussobertolez@gmail.com).

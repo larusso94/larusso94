@@ -206,4 +206,4 @@ These examples demonstrate my approach to production AI systems:
 3. **Measure everything** (accuracy, latency, cost, adoption)
 4. **Learn and iterate** (every project teaches something)
 
-If you want to discuss how I'd approach a similar problem for your team, [let's talk](mailto:lautarorussobertolez@gmail.com).
+If you want to discuss how I'd approach a similar problem for your team, [let's talk](mailto:lrussobertolez@gmail.com).

@@ -187,4 +187,4 @@ Use sequential numbers: `001`, `002`, `003`, etc. Never reuse numbers.
 
 ## Questions?
 
-If you're documenting a decision and unsure how to structure it, feel free to reach out: [lautarorussobertolez@gmail.com](mailto:lautarorussobertolez@gmail.com)
+If you're documenting a decision and unsure how to structure it, feel free to reach out: [lrussobertolez@gmail.com](mailto:lrussobertolez@gmail.com)

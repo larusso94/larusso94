@@ -178,4 +178,4 @@
 
 ---
 
-If you want to discuss whether I'm a fit for your team, [let's talk](mailto:lautarorussobertolez@gmail.com). I'd rather have an honest conversation upfront than waste anyone's time.
+If you want to discuss whether I'm a fit for your team, [let's talk](mailto:lrussobertolez@gmail.com). I'd rather have an honest conversation upfront than waste anyone's time.

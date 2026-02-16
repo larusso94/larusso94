@@ -10,7 +10,7 @@ Thank you for your interest in this portfolio! While this is primarily a persona
 
 If you find broken links, typos, or technical inaccuracies:
 
-1. Open an issue on GitHub (or email me directly: [lautarorussobertolez@gmail.com](mailto:lautarorussobertolez@gmail.com))
+1. Open an issue on GitHub (or email me directly: [lrussobertolez@gmail.com](mailto:lrussobertolez@gmail.com))
 2. Describe what's wrong and where (file name, section)
 3. Suggest a fix if you have one
 
@@ -119,7 +119,7 @@ Violations will result in comments being deleted and users being blocked.
 
 ## Questions?
 
-If you're unsure whether something is worth contributing, just ask! Email me at [lautarorussobertolez@gmail.com](mailto:lautarorussobertolez@gmail.com) or open a discussion issue.
+If you're unsure whether something is worth contributing, just ask! Email me at [lrussobertolez@gmail.com](mailto:lrussobertolez@gmail.com) or open a discussion issue.
 
 ---
 

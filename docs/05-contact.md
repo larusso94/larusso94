@@ -4,7 +4,7 @@
 
 I'm open to conversations about MLOps, AI Platform Engineering, and Technical Lead roles. Here's how to reach me:
 
-📧 **Email:** [lautarorussobertolez@gmail.com](mailto:lautarorussobertolez@gmail.com)  
+📧 **Email:** [lrussobertolez@gmail.com](mailto:lrussobertolez@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/lautarorusso](https://linkedin.com/in/lautarorusso)  
 📍 **Location:** Barcelona, Spain  
 🌍 **Work Model:** Remote-first with Barcelona visits preferred
@@ -152,4 +152,4 @@ I'm open to conversations about MLOps, AI Platform Engineering, and Technical Le
 
 If you're building production AI systems and need someone who can architect, code, deploy, and iterate—let's talk.
 
-📧 **[lautarorussobertolez@gmail.com](mailto:lautarorussobertolez@gmail.com)**
+📧 **[lrussobertolez@gmail.com](mailto:lrussobertolez@gmail.com)**
