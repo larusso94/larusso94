@@ -51,61 +51,55 @@ Built a self-service platform where teams define agents in YAML, deploy via CLI,
 
 ### Enterprise RAG System
 
-**Problem:**
-Major European bank (€200B+ assets, 20,000+ employees) needed internal knowledge assistant to search 10k+ policy documents. Manual search took 20-30 minutes per query.
+**Overview:**
+Developed and deployed **2 production RAG-based LLM systems** with custom architectures for banking clients, plus multiple POC implementations.
 
-**Solution:**
-Built production RAG system with hybrid search (keyword + semantic), Azure OpenAI, and LLM-as-judge evaluation.
-
-**Key Features:**
-- Hybrid search with Azure AI Search (keyword + vector)
-- Cross-encoder reranking for top-10 → top-3 refinement
-- Citation system (every answer includes source documents)
-- Evaluation framework (LLM-as-judge + human labeling)
+**Technical Implementation:**
+- Custom RAG architectures with Azure OpenAI and LangChain
+- Hybrid search combining semantic similarity and keyword matching
+- Evaluation frameworks with custom metrics for quality and traceability
+- Cloud cost optimization through architecture improvements
 
 **Tech Stack:**
-- **Backend:** FastAPI, LangChain, Azure OpenAI, Azure AI Search, Redis
-- **Infrastructure:** AKS (3-node cluster), Terraform, Helm
-- **CI/CD:** Azure DevOps, Docker, pytest
-- **Monitoring:** Application Insights, Prometheus, Grafana
+- **Backend:** FastAPI, LangChain, Azure OpenAI, Azure AI Search
+- **Infrastructure:** AKS, Terraform, Docker, Kubernetes
+- **CI/CD:** Azure DevOps, automated testing with pytest
+- **Monitoring:** MLflow for prompt tracking, Azure Application Insights
 
-**Outcome:**
-- Query time: 25 min → 8 seconds
-- 91% accuracy on test set (500 queries)
-- €3.20 per 1000 queries (cost-effective)
-- 1,200 active users after 3 months
+**Verified Achievements:**
+- 2 production RAG systems deployed
+- Multiple POC implementations
+- Enterprise security and GDPR compliance
+- Integration with Azure AD authentication
 
-**Learn More:** [Case Study](../docs/02-case-studies.md#case-study-1-enterprise-rag-system-for-financial-services)
+**Learn More:** [Case Study](../docs/02-case-studies.md#case-study-1-production-rag-systems-for-banking-sector)
 
 ---
 
 ### GPU Deepfake Detection
 
-**Problem:**
-Cybersecurity firm (~200 employees, B2B SaaS) needed real-time deepfake detection for video calls to prevent social engineering attacks. Existing CPU model took 45 seconds per frame.
+**Overview:**
+Led deepfake detection pipeline for National Cybersecurity Agency (INCIBE) as Video Analysis Lead.
 
-**Solution:**
-Optimized PyTorch model to TensorRT, deployed on NVIDIA Triton Inference Server with dynamic batching.
+**Verified Results:**
+- **0.99 accuracy** on FaceForensics++ benchmark dataset
+- **0.99 accuracy** on Celeb-DF benchmark dataset
+- **0.90 accuracy** on custom-generated deepfake datasets
+- Evaluated and optimized **23 state-of-the-art models**
 
-**Key Features:**
-- Model quantization (FP32 → FP16) with TensorRT
-- NVIDIA Triton dynamic batching (max 32 frames)
-- Real-time video frame extraction and inference
-- Privacy-preserving (zero data retention)
+**Technical Implementation:**
+- GPU-accelerated training and inference pipelines
+- Idempotent data pipelines for >1TB of video data
+- PyTorch for model development and fine-tuning
+- NVIDIA CUDA and Triton Inference Server for deployment
 
 **Tech Stack:**
-- **ML Stack:** PyTorch → ONNX → TensorRT, NVIDIA Triton
-- **Infrastructure:** AKS with GPU node pools (NVIDIA T4), Terraform
-- **Backend:** FastAPI (frame extraction), gRPC (Triton client)
-- **Monitoring:** Prometheus (GPU metrics), Grafana dashboards
+- **ML Stack:** PyTorch, TensorFlow, NVIDIA Triton, CUDA, TensorRT
+- **Infrastructure:** Kubernetes with GPU node pools, Docker, NVIDIA NGC
+- **MLOps:** MLflow for experiment tracking, CI/CD pipelines
+- **Data:** FaceForensics++, Celeb-DF, custom synthetic datasets
 
-**Outcome:**
-- Latency: 45s → 0.8s per frame (10x faster)
-- 500 concurrent calls supported
-- €8k/month actual cost (under €15k budget)
-- 96% detection accuracy
-
-**Learn More:** [Case Study](../docs/02-case-studies.md#case-study-3-gpu-accelerated-deepfake-detection-system)
+**Learn More:** [Case Study](../docs/02-case-studies.md#case-study-3-deepfake-detection-pipeline-with-gpu-acceleration)
 
 ---
 
