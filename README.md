@@ -15,10 +15,10 @@ Building production-grade AI systems with focus on **agentic workflows**, **RAG 
 📍 **New to this repo?** Start with these pages:
 
 1. **[Positioning & Problems I Solve](docs/01-positioning.md)** – Who I am, what I focus on, and the value I deliver
-2. **[Case Studies](docs/02-case-studies.md)** – Anonymized examples of real production work
-3. **[Reference Architectures](docs/03-architecture-notes.md)** – RAG, Agentic Systems, MLOps Platform diagrams
+2. **[Case Studies](docs/02-case-studies.md)** – Project portfolio (Work in Progress - building POC projects publicly)
+3. **[Architecture Patterns](docs/03-architecture-notes.md)** – Design patterns for RAG, Agentic Systems, MLOps platforms
 4. **[Scope & Trade-offs](docs/04-signal-and-scope.md)** – What I do end-to-end vs. what I don't do
-5. **[Projects Portfolio](projects/README.md)** – Flagship repos and proof-of-work artifacts
+5. **[Project Roadmap](projects/README.md)** – Public POC projects (In Development)
 
 📚 **Deep dives:**
 - [Experience](Experience.md) – Full professional timeline

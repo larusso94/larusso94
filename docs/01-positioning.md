@@ -19,7 +19,7 @@
 - Set up governance: prompt versioning, model traceability, audit logs, compliance controls
 - Optimize inference costs (prompt caching, model selection, batch processing)
 
-**Example outcome:** Shipped 2 production RAG systems with 40% cost reduction through architecture changes
+**Experience:** Deployed 2 production RAG systems for banking clients with enterprise security and compliance
 
 ---
 
@@ -30,7 +30,7 @@
 - Implement monitoring: model drift detection, performance metrics, alerting
 - Create reproducible workflows with Docker, Terraform, and infrastructure-as-code
 
-**Example outcome:** Reduced deployment time from weeks to hours with automated CI/CD
+**Experience:** Led MLOps methodology definition and infrastructure management for multiple clients
 
 ---
 
@@ -41,7 +41,7 @@
 - Implement observability: agent traces, decision logs, performance analytics
 - Build governance frameworks: agent permissions, resource limits, failure handling
 
-**Example outcome:** Built agent mesh platform with YAML-configurable workflows and centralized monitoring
+**Experience:** Built agent mesh platform with YAML-configurable workflows and centralized monitoring
 
 ---
 
@@ -52,7 +52,7 @@
 - Design hybrid deployment: critical workloads on GPU, batch jobs on CPU
 - Set up usage analytics and cost attribution per team/project
 
-**Example outcome:** 10x faster inference with GPU acceleration while reducing per-request costs
+**Experience:** Led GPU-accelerated deepfake detection achieving 0.99 accuracy on benchmark datasets
 
 ---
 
