@@ -35,7 +35,7 @@ Building production-grade AI systems with focus on **agentic workflows**, **RAG 
 
 🌍 **Location:**
 - Barcelona (preferred) or Remote
-- Open to travel in ~3 years for international opportunities
+- Open to travel for international opportunities
 
 🏢 **Company Profile:**
 - Enterprise / Scale-up with strong eng culture
