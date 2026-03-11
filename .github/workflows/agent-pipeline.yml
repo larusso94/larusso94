@@ -1,0 +1,20 @@
+name: AI Agent Pipeline
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Caller workflow — copia este archivo en .github/workflows/ de cada repo.
+# Actualiza HUB_REPO con tu usuario real (lo hace bootstrap.sh automáticamente).
+# ──────────────────────────────────────────────────────────────────────────────
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  agents:
+    uses: larusso94/cicd-agents/.github/workflows/reusable-agent-pipeline.yml@main
+    with:
+      base_ref:   ${{ github.base_ref }}
+      agent_model: "gpt-4o"
+      hub_repo:   "larusso94/cicd-agents"
+    secrets:
+      PERSONAL_GH_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
